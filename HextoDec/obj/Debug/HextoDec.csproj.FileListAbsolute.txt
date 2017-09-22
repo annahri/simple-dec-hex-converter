@@ -1,0 +1,9 @@
+c:\users\annahri1u\documents\visual studio 2017\Projects\HextoDec\HextoDec\bin\Debug\HextoDec.exe.config
+c:\users\annahri1u\documents\visual studio 2017\Projects\HextoDec\HextoDec\bin\Debug\HextoDec.exe
+c:\users\annahri1u\documents\visual studio 2017\Projects\HextoDec\HextoDec\bin\Debug\HextoDec.pdb
+c:\users\annahri1u\documents\visual studio 2017\Projects\HextoDec\HextoDec\obj\Debug\HextoDec.csprojResolveAssemblyReference.cache
+c:\users\annahri1u\documents\visual studio 2017\Projects\HextoDec\HextoDec\obj\Debug\HextoDec.btnConv.resources
+c:\users\annahri1u\documents\visual studio 2017\Projects\HextoDec\HextoDec\obj\Debug\HextoDec.Properties.Resources.resources
+c:\users\annahri1u\documents\visual studio 2017\Projects\HextoDec\HextoDec\obj\Debug\HextoDec.csproj.GenerateResource.Cache
+c:\users\annahri1u\documents\visual studio 2017\Projects\HextoDec\HextoDec\obj\Debug\HextoDec.exe
+c:\users\annahri1u\documents\visual studio 2017\Projects\HextoDec\HextoDec\obj\Debug\HextoDec.pdb
